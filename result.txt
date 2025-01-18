@@ -1,0 +1,20 @@
+------------First Linear Programming Problem (can have 0 values for certain items)------
+
+Problem
+cheese = 27.465444
+chicken = 0.0
+oatmeal = 180.34556
+salad = 0.0
+salmon = 7.4594269
+Objective = 77.55775479000002
+
+
+------------Second Linear Programming Problem (minimum 1 serving of each item)--------
+
+Problem with minimum 1 serving
+cheese = 27.153641
+chicken = 1.0
+oatmeal = 176.66359
+salad = 1.0
+salmon = 7.4556867
+Objective = 80.21366041
